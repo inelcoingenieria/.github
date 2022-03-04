@@ -20,7 +20,7 @@ Repositorio para el desarrollo de software de Inelco Ingeniería.
    - [Red de centrales](https://github.com/inelcoingenieria/red-de-centrales)
    - [Repetidor](https://github.com/inelcoingenieria/repetidor)
 
-## Documentación:
+## [Documentación](https://github.com/inelcoingenieria/documentacion/tree/main):
 ### Datasheets:
    -[]()
 
